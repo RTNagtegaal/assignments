@@ -9,4 +9,4 @@ Assignment 4: https://github.com/RTNagtegaal/assignments/blob/master/assignment4
 
 Graded Assignment 1: https://github.com/RTNagtegaal/assignments/blob/master/Graded_assignment1-2.ipynb
 
-Graded Assignment 2: https://github.com/RTNagtegaal/assignments/blob/master/Graded_assignment_2.ipynb
+Graded Assignment 2: https://github.com/RTNagtegaal/assignments/blob/master/Graded_assignment_2-2.ipynb
