@@ -13,4 +13,4 @@ Graded Assignment 2: https://github.com/RTNagtegaal/assignments/blob/master/Grad
 
 Final Assignment Python: https://github.com/RTNagtegaal/assignments/blob/master/exam_june_7_2018.ipynb
 
-Final Assignment R: 
+Final Assignment R: https://github.com/RTNagtegaal/assignments/blob/master/Exam_student.Rmd
